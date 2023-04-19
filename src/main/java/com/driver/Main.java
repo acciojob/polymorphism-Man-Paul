@@ -18,5 +18,6 @@ public class Main {
         p.product(8,9);
         p.product(8,9,10);
         p.product(8.1,9.1);
+//        p.product(8.1,9.1);
     }
 }
